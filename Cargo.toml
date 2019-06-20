@@ -1,0 +1,9 @@
+[package]
+name = "num"
+version = "0.1.0"
+authors = ["John Goerzen <jgoerzen@complete.org>"]
+edition = "2018"
+
+[dependencies]
+numeric_literals = "0.1.0"
+
